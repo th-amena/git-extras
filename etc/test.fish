@@ -18,3 +18,4 @@ end
 
 complete -c blah -f -n '__fish_git_using_command coauthor; and __fish_git_arg_number 2' -a '(__fish_git_extra_coauthor_name)'
 complete -c blah -f -n '__fish_git_using_command coauthor; and __fish_git_arg_number 3' -a '(__fish_git_extra_coauthor_email)'
+//test
